@@ -1,0 +1,42 @@
+id: CH-001
+
+title:
+  fa: "مقدمه: تولد مهندسی نرم‌افزار عامل‌محور"
+  en: "Introduction: The Birth of Agentic Software Engineering"
+
+part: foundations
+
+order: 1
+
+status: draft
+
+version: 0.1.0
+
+language: fa
+
+artifact_type: book_chapter
+
+authoring_mode:
+  - research_informed
+  - practice_informed
+  - author_proposal
+
+dependencies: []
+
+tags:
+  - agentic-software-engineering
+  - ai-agents
+  - software-engineering-evolution
+  - human-agent-collaboration
+
+evidence_types:
+  - research-backed
+  - practice-backed
+  - author-proposal
+
+toc:
+  include: true
+
+review:
+  status: pending
+  last_reviewed: null
